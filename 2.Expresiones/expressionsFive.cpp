@@ -9,7 +9,7 @@ int main(){
     cout<<"Digite el valor de a: "; cin>>a;
     cout<<"Digite el valor de b: "; cin>>b;
 
-    aux = a; a = b; a = aux;
+    aux = a; a = b; b = aux;
 
     cout<<"\nEl valor de 'a' es:"<<a<<endl;
     cout<<"El valor de 'b' es:"<<b<<endl;
