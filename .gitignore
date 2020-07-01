@@ -1,0 +1,11 @@
+### C++ ###
+# Byte-compiled / optimized / DLL files
+
+#Paquetes comprimidos
+*.zip
+*.tar.gz
+*.xlsx
+*.csv
+
+# Magic debug
+tempCodeRunnerFile.cpp
