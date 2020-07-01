@@ -1,5 +1,10 @@
 ### C++ ###
 # Byte-compiled / optimized / DLL files
+.build/
+bins
+gens
+libs
+objs
 
 #Paquetes comprimidos
 *.zip
@@ -7,5 +12,5 @@
 *.xlsx
 *.csv
 
-# Magic debug
-tempCodeRunnerFile.cpp
+# Temporales
+*tempCodeRunnerFile.cpp
